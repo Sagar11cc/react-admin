@@ -26,5 +26,3 @@ A responsive and modern admin dashboard built with **React**, **Vite**, and **Ta
 - **Product Management**: Catalog, stock tracking, and product images.
 - **Order Management**: Order tracking, history, and status updates.
 
-## 🎨 Theme Customization
-Built with **Tailwind CSS**, including a dark mode toggle for enhanced user experience.
